@@ -7,3 +7,4 @@ public class Main {
         System.out.println("THis is the first trial in the data structure course");
     }
 }
+    
