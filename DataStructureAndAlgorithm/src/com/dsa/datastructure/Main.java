@@ -16,6 +16,10 @@ public class Main {
 
         //Testing recursion using fibonacci series
         System.out.println(RecursionStack.fibonacci(6));
+
+        //Testing the run time of an algorithm
+        int[] arr = new int[12];
+        //arr = [34,45,56,7,4,4,56];
     }
 }
     

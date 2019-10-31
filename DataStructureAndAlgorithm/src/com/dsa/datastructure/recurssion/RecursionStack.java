@@ -1,6 +1,6 @@
 package com.dsa.datastructure.recurssion;
 /**
- * This class is used to study about stack on method calls
+ * This class is used to study about stack on method calls and recursion
  * stack is a data structure that follows the rule LIFO - Last In First Out
  */
 public class RecursionStack {
