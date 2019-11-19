@@ -6,8 +6,6 @@ import java.util.function.DoubleToIntFunction;
  * This class deals with the physical data structure called Arrays,
  * the second physical data structure that I will cover later is Linked List
  * <p>
- * Array is a DS consisting of collections of elements, each identified by unique index.
- * A collection of similar data type
  * <p>
  * 1D array - single row and multiple columns
  * Multi Dimensional array - multiple rows and multiple columns
