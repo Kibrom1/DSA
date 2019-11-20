@@ -1,15 +1,10 @@
 package com.dsa.datastructure;
 
-import com.dsa.datastructure.physicalds.Arrays;
 import com.dsa.datastructure.physicalds.LinkedList;
 import com.dsa.datastructure.physicalds.Node;
-import com.dsa.datastructure.recurssion.RecursionStack;
-import com.dsa.datastructure.runtimeanalysis.RunTimeAnalysis;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
 public class Main {
 
